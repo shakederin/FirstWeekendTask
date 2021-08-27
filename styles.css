@@ -1,0 +1,33 @@
+* {
+  text-align: center; 
+  box-sizing: border-box;
+
+}
+
+body {
+    background: wheat;
+    
+}
+  #headline {
+      font-size: 120px;
+      margin: 50px 5px 5px 5px;
+  }
+  #headline_2 {
+    font-size: 80px;
+}
+#navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: rgb(180, 27, 27);
+    align-items: center;
+    
+
+}
+#bowl{
+    width: 70%;
+    display: block;
+    margin-bottom: 35px;
+}
+
