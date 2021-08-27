@@ -6,6 +6,7 @@
 
 body {
     background: wheat;
+    font-size: 30px;
     
 }
   #headline {
@@ -13,9 +14,24 @@ body {
       margin: 50px 5px 5px 5px;
   }
   #headline_2 {
-    font-size: 80px;
+    font-size: 150%; font-style: bold;
 }
+code {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#ing{ 
+    font-size: 70px;
+    font-weight: bold;
+    font-weight: 
+
+ }   
+
+
 #navbar {
+    font-size: large;
+    width:12% ;
     position: fixed;
     top: 0;
     left: 0;
@@ -23,10 +39,17 @@ body {
     background: rgb(180, 27, 27);
     align-items: center;
     
-
 }
+.nav-link {
+    margin-bottom:5px;
+
+}     
+
+
 #bowl{
-    width: 70%;
+    margin-top: 50%;
+   
+    width: 100%;
     display: block;
     margin-bottom: 35px;
 }
