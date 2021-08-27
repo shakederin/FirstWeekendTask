@@ -10,28 +10,57 @@ body {
     
 }
   #headline {
+      margin-top: 150px;
       font-size: 120px;
       margin: 50px 5px 5px 5px;
   }
   #headline_2 {
-    font-size: 150%; font-style: bold;
+    margin-top: 150px;
+    font-size: 150%;
+    font-style: bold;
 }
+#headline_3{ 
+    margin-top: 150px;
+    font-size: 70px;
+    font-weight: bold;
+ }   
 code {
     font-size: 40px;
     font-weight: bold;
 }
-
-#ing{ 
+#headline_4{
     font-size: 70px;
     font-weight: bold;
-    font-weight: 
+} 
+.steps-headline {
+    font-size: 40px;
+    font-weight: bold;
 
- }   
+}
+
+#headline_5 {
+    margin-top: 150px;
+    font-size: 70px;
+    font-weight: bold;
+
+}
+.Tips-headline {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#headline_6 {
+    margin-top: 50px;
+    font-size: 40px;
+
+}
+
+
 
 
 #navbar {
     font-size: large;
-    width:12% ;
+    width:15% ;
     position: fixed;
     top: 0;
     left: 0;
@@ -47,7 +76,7 @@ code {
 
 
 #bowl{
-    margin-top: 50%;
+    margin-top: 300px;
    
     width: 100%;
     display: block;
