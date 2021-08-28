@@ -92,23 +92,12 @@ a:hover {
     text-decoration: underline;
 }
 
-/*@media(max-width:1550px){
-    .main-section {
-        background-color: lawngreen;
-    }
-}
-/*@media screen and (max-width:750px) {
-    #main-doc {
-        grid-template-columns: inherit ;
-        grid-template-areas: "navbar" "mainContent";
+ 
+  @media (min-width:800px)  {
+    .nav-link{
+          align-items: left;
+          width: 50%;
         }
-}*/
-@media (max-width:450px) {
-    #navbar {
-      padding-top: 15px;
     }
-    #headline_6 {
-      font-size: 18px;
-    }
-  }
+ 
   
